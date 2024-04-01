@@ -12,3 +12,4 @@ python_speech_features
 pyxdg
 bs4
 six
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
