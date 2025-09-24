@@ -12,3 +12,4 @@ python_speech_features
 pyxdg
 bs4
 six
+keras>=3.11.3 # not directly required, pinned by Snyk to avoid a vulnerability
